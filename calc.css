@@ -1,0 +1,40 @@
+button:hover{
+    background-color: yellow;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-color:
+    white;
+    margin-top: 50px;
+    margin-right: 10px;
+}
+input{
+    height: 10px;
+    width:100px;
+    background-color: rgb(240, 185, 122);
+}
+button{
+    color:black;
+    font-weight: bold;
+}
+div{
+    background-color: rgb(150, 150, 226);
+    padding: 14px;
+    border-radius: 5%;
+    
+}
+input{
+    border-radius: 10%;
+    margin-left: 3px;
+}
+.to{
+    background-color: red;
+}
+button{
+    border-radius: 70%;
+}
+body{
+    background-color: aquamarine;
+    background-size: 1800px;
+}
